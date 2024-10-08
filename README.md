@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @fazzymwai<br>👀 I’m interested in technology, web development, and minimalist designs.<br>🌱 I’m currently enhancing my web development skills and learning advanced Flutter.<br>💞️ I’m looking to collaborate on exciting web and mobile app projects.<br>📫 How to reach me: [albertmwai@gmail.com]<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I create amazing digital art photography and wallpapers!
+👋 Hi, I’m @fazzymwai<br>👀 I’m interested in technology, web development, and minimalist designs.<br>🌱 I’m currently enhancing my web development skills and learning advanced Flutter.<br>💞️ I’m looking to collaborate on exciting web and mobile app projects.<br>📫 How to reach me: [albertmwai@gmail.com]<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I create amazing digital art photography and wallpapers.
 
 
 ## 🌐 Socials:
