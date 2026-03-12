@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ Albert Mwai
+# 👋 Hi, I’m @ Albert Mwa
 👀 I’m interested in technology, web||app development, and minimalist designs.<br>🌱 Currently enhancing my web development skills and learning advanced Flutter.<br>⚡ Looking to collaborate on exciting/potential web and mobile app projects.<br>📧 How to reach me: [albertmwai@gmail.com]
 
 
